@@ -1,0 +1,11 @@
+header {
+    background-color: chocolate;
+    height: 120px;
+    width: 100%;
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 35px;
+}
